@@ -13,7 +13,7 @@ Capstone Project
 05/2024
 
 CGPA: 3.7/4.0
-- Relevant coursework: Introduction to Data Science, Database Management, Introduction to Data Analysis and ML, Platforms
+- Subjects: Introduction to Data Science, Database Management, Introduction to Data Analysis and ML, Platforms
 for Big Data Processing, Statistical Analysis, and Visualization with Python
 
 **Bachelor of Technology in Electronics and Communication Engineering**
