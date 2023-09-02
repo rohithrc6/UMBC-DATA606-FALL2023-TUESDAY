@@ -1,5 +1,5 @@
 # UMBC-DATA606-FALL2023-TUESDAY
-Capstone Project
+# My Resume
 # Venkata Sundara Sai Rohith Challa
 [Rohith Challa](https://drive.google.com/file/d/19ukqF1hP8Iq7RD-EKW5ta1pj8T3Le4Ja/view?usp=sharing)
 
