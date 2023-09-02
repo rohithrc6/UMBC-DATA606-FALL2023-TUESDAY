@@ -34,35 +34,61 @@ via REST APIs.
 different types of files.
 - Involved in integrating enterprise applications using webMethods.
 
-### [Job Title]
-*Company Name*, City, State | *Month Year - Month Year*
-- [Describe your responsibilities and achievements in bullet points]
+### Intern
+*ACS India | Pune, Maharashtra*
 
-## Skills
-- **Technical Skills:** [List relevant technical skills]
-- **Soft Skills:** [List relevant soft skills]
+06/2019 - 07/2019
+
+- Designed Programmable Logical Circuits (PLCs).
+- Worked on AutoCAD, Autodesk, and ABB Industrial (Robot Studio) Software.
+
+## Skills & Technologies
+
+Python, Machine Learning, SQL, Java, C, webMethods
 
 ## Certifications
-- **Certification Name** | *Certifying Organization*, *Year*
+
+- Internet of Things and Machine Learning -
+https://drive.google.com/file/d/1P6VQXHq-q9lXecw6QVmwgSqiU3ZDBDAq/view? usp=sharing
+- Neural Networks and Deep Learning - https://coursera.org/verify/WPQ63J75U27G
+- Introduction to Programming with MATLAB - https://coursera.org/verify/73CPYA9HY33H
+- Front-End Web UI Frameworks and Tools: Bootstrap 4 -
+https://coursera.org/verify/2GC67LP9H8XR
 
 ## Projects
-### [Project Name]
-*Month Year - Month Year*
-- [Describe the project and your role in it]
+#### Internet of Things (IoT) and Machine Learning
+### PLANT HEALTH MONITORING SYSTEM USING ESP8266MOD :
+*02/2021*
+- Used LDR, and Soil Moisture sensors to detect the amount of light falling on the plant, and the moisture
+levels of the plant, respectively.
+- Used Z-score analysis for anomaly detection.
+- Made use of Integromat, and Twilio to send an alert message every 15 minutes whenever the light or
+moisture level is below the threshold.
 
-### [Project Name]
-*Month Year - Month Year*
-- [Describe the project and your role in it]
+#### Android Application
+### GPA ASSISTANT :
+*07/2021*
+- Developed an Android application that can calculate SGPA scores from a given set of credits and points.
+- Displays toast messages whenever the user gives an invalid input like the credits or points provided are
+greater than the highest possible value.
 
-## Awards and Honors
-- **[Name of Award/Honor]** | *Year*
+#### Data Science
+### DATA EXTRACTION, FILTERING, AND VISUALIZATION :
+● Extracted specific data using the arxiv library and stored it in a dictionary, which is saved in json format
+● Made use of json and pandas libraries to access the data in json file and stored it in dataframes based on the
+primary category of each paper
+● Using matplotlib prepared a pie chart for each primary category which shows the number of authors
+percentage for all the papers
+● Using matplotlib prepared a bar graph for each primary category which shows the number of papers
+produced in a specific year for each primary category
 
-## Languages
-- [List languages you are proficient in, if applicable]
+## Awards and Achievements
+- Best Team Award @ TCS -
+https://drive.google.com/file/d/1wNcVvHrkboFbwtYl9PyeYAaWXt6JqnMB/view?usp=share_link
+- Plant Health Monitoring System Project published in a Spanish magazine -
+https://humanizationoftechnology.com/sistema-de-monitoreo-de-la-salud-de-las-plantas/revista/iot/03/20
+21/
 
-## Interests
-- [List your hobbies and interests, if relevant]
-
----
-
-*References available upon request.*
+## About
+Technology, fitness, and automobile enthusiast. My hobbies are playing badminton, reading, drawing, and improving
+financial literacy.
