@@ -48,12 +48,10 @@ Python, Machine Learning, SQL, Java, C, webMethods
 
 ## Certifications
 
-- Internet of Things and Machine Learning -
-https://drive.google.com/file/d/1P6VQXHq-q9lXecw6QVmwgSqiU3ZDBDAq/view?usp=sharing
-- Neural Networks and Deep Learning - https://coursera.org/verify/WPQ63J75U27G
-- Introduction to Programming with MATLAB - https://coursera.org/verify/73CPYA9HY33H
-- Front-End Web UI Frameworks and Tools: Bootstrap 4 -
-https://coursera.org/verify/2GC67LP9H8XR
+- [Internet of Things and Machine Learning](https://drive.google.com/file/d/1P6VQXHq-q9lXecw6QVmwgSqiU3ZDBDAq/view?usp=sharing)
+- [Neural Networks and Deep Learning](https://coursera.org/verify/WPQ63J75U27G)
+- [Introduction to Programming with MATLAB](https://coursera.org/verify/73CPYA9HY33H)
+- [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://coursera.org/verify/2GC67LP9H8XR)
 
 ## Projects
 #### Internet of Things (IoT) and Machine Learning
@@ -84,10 +82,8 @@ percentage for all the papers
 produced in a specific year for each primary category
 
 ## Awards and Achievements
-- Best Team Award @ TCS -
-https://drive.google.com/file/d/1wNcVvHrkboFbwtYl9PyeYAaWXt6JqnMB/view?usp=share_link
-- Plant Health Monitoring System Project published in a Spanish magazine -
-https://humanizationoftechnology.com/sistema-de-monitoreo-de-la-salud-de-las-plantas/revista/iot/03/2021/
+- [Best Team Award @ TCS](https://drive.google.com/file/d/1wNcVvHrkboFbwtYl9PyeYAaWXt6JqnMB/view?usp=share_link)
+- [Plant Health Monitoring System Project published in a Spanish magazine](https://humanizationoftechnology.com/sistema-de-monitoreo-de-la-salud-de-las-plantas/revista/iot/03/2021/)
 
 ## About
 Technology, fitness, and automobile enthusiast. My hobbies are playing badminton, reading, drawing, and improving
