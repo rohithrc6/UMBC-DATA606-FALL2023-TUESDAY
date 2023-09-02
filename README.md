@@ -74,12 +74,13 @@ greater than the highest possible value.
 
 #### Data Science
 ### DATA EXTRACTION, FILTERING, AND VISUALIZATION :
-● Extracted specific data using the arxiv library and stored it in a dictionary, which is saved in json format
-● Made use of json and pandas libraries to access the data in json file and stored it in dataframes based on the
+*10/2022*
+- Extracted specific data using the arxiv library and stored it in a dictionary, which is saved in json format
+- Made use of json and pandas libraries to access the data in json file and stored it in dataframes based on the
 primary category of each paper
-● Using matplotlib prepared a pie chart for each primary category which shows the number of authors
+- Using matplotlib prepared a pie chart for each primary category which shows the number of authors
 percentage for all the papers
-● Using matplotlib prepared a bar graph for each primary category which shows the number of papers
+- Using matplotlib prepared a bar graph for each primary category which shows the number of papers
 produced in a specific year for each primary category
 
 ## Awards and Achievements
