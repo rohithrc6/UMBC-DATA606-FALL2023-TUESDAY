@@ -87,8 +87,7 @@ produced in a specific year for each primary category
 - Best Team Award @ TCS -
 https://drive.google.com/file/d/1wNcVvHrkboFbwtYl9PyeYAaWXt6JqnMB/view?usp=share_link
 - Plant Health Monitoring System Project published in a Spanish magazine -
-https://humanizationoftechnology.com/sistema-de-monitoreo-de-la-salud-de-las-plantas/revista/iot/03/20
-21/
+https://humanizationoftechnology.com/sistema-de-monitoreo-de-la-salud-de-las-plantas/revista/iot/03/2021/
 
 ## About
 Technology, fitness, and automobile enthusiast. My hobbies are playing badminton, reading, drawing, and improving
