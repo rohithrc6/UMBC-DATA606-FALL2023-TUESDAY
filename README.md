@@ -49,7 +49,7 @@ Python, Machine Learning, SQL, Java, C, webMethods
 ## Certifications
 
 - Internet of Things and Machine Learning -
-https://drive.google.com/file/d/1P6VQXHq-q9lXecw6QVmwgSqiU3ZDBDAq/view? usp=sharing
+https://drive.google.com/file/d/1P6VQXHq-q9lXecw6QVmwgSqiU3ZDBDAq/view?usp=sharing
 - Neural Networks and Deep Learning - https://coursera.org/verify/WPQ63J75U27G
 - Introduction to Programming with MATLAB - https://coursera.org/verify/73CPYA9HY33H
 - Front-End Web UI Frameworks and Tools: Bootstrap 4 -
