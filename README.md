@@ -5,17 +5,34 @@ Capstone Project
 
 ## Education
 **Masters of Professional Studies in Data Science**
-**
 
-**Bachelor of Science in [Your Major]**  
-*University Name*, City, State  
-*Month Year - Month Year*  
-- Relevant coursework: [List relevant courses]
+*University of Maryland Baltimore County | Arbutus, Maryland*
+
+05/2024
+
+CGPA: 3.7/4.0
+- Relevant coursework: Introduction to Data Science, Database Management, Introduction to Data Analysis and ML, Platforms
+for Big Data Processing, Statistical Analysis, and Visualization with Python
+
+**Bachelor of Technology in Electronics and Communication Engineering**
+
+*Keshav Memorial Institute of Technology | Hyderabad, Telangana* 
+
+07/2021
   
 ## Work Experience
-### [Job Title]
-*Company Name*, City, State | *Month Year - Present*
-- [Describe your responsibilities and achievements in bullet points]
+### Developer
+*Tata Consultancy Services (TCS) | Hyderabad, Telangana*
+
+08/2021 - 05/2022
+
+- Part of the core webMethods upgrade team and performed 70% of the critical activities such as Installing
+the Integration Server and its components, migrating, and configuring the Integration Servers.
+- Developed multipurpose web services to replace the existing services and expose them to the external world
+via REST APIs.
+- Implemented Pub-Sub model using UM (Universal Messaging) via JMS (Java Messaging Service) for sharing
+different types of files.
+- Involved in integrating enterprise applications using webMethods.
 
 ### [Job Title]
 *Company Name*, City, State | *Month Year - Month Year*
