@@ -1,7 +1,6 @@
 # UMBC-DATA606-FALL2023-TUESDAY
 # My Resume
-# Venkata Sundara Sai Rohith Challa
-[Rohith Challa](https://drive.google.com/file/d/19ukqF1hP8Iq7RD-EKW5ta1pj8T3Le4Ja/view?usp=sharing)
+# Venkata Sundara Sai Rohith Challa ![Rohith Challa](https://drive.google.com/file/d/19ukqF1hP8Iq7RD-EKW5ta1pj8T3Le4Ja/view?usp=sharing)
 
 *208 S Symington Avenue* | *Catonsville, Maryland 21228* | *+1 4438139479* | *rohith.challa6@umbc.edu* | *[LinkedIn Profile](https://www.linkedin.com/in/rohith-challa-82868a193)*
 
