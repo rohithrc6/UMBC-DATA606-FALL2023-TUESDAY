@@ -13,15 +13,17 @@
 05/2024
 
 CGPA: 3.7/4.0
-- Subjects: Introduction to Data Science, Database Management, Introduction to Data Analysis and ML, Platforms
-for Big Data Processing, Statistical Analysis, and Visualization with Python
+- Subjects: Introduction to Data Science, Database Management, Introduction to Data Analysis and ML, Platforms for Big Data Processing, Statistical Analysis, and Visualization with Python
 
 **Bachelor of Technology in Electronics and Communication Engineering**
 
 *Keshav Memorial Institute of Technology | Hyderabad, Telangana* 
 
 07/2021
-  
+
+CGPA: 7.5/10.0
+- Subjects: Very Large Scale Integration, Linear and Digital Logical Circuits, Fundamentals of Management, Object Oriented Programming using Java, Fundamentals of Database Management System
+
 ## Work Experience
 ### Developer
 *Tata Consultancy Services (TCS) | Hyderabad, Telangana*
